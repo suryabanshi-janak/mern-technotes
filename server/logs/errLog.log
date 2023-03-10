@@ -1,0 +1,4 @@
+20230310	23:30:17	a83bc389-f6ff-47d4-99c6-d29d0caf35d5	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230310	23:30:24	0bfa41d5-d140-48b4-a739-e261bf9f63c6	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230310	23:30:33	65fc98db-dcda-49a5-8a03-e3b30e86d08a	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230310	23:34:20	d22f3d20-b663-4f81-a23d-14fe5a48187f	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
