@@ -2,3 +2,10 @@
 20230310	23:30:24	0bfa41d5-d140-48b4-a739-e261bf9f63c6	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
 20230310	23:30:33	65fc98db-dcda-49a5-8a03-e3b30e86d08a	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
 20230310	23:34:20	d22f3d20-b663-4f81-a23d-14fe5a48187f	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230311	19:10:26	d1c0aea9-c695-4637-8643-bd3e1a8d2bdd	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
+20230311	22:44:19	828b8a49-b5bf-4be5-b24f-7fdb1e6cb0fd	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230311	22:47:05	e28c18f7-789d-4271-ad3c-9b617ac8ec14	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230311	22:47:44	22c4d115-1b06-4045-8697-9d95a56e6cc0	Error: Not allowed by CORS	GET	/users	http://127.0.0.1:5173
+20230311	22:48:10	59589972-7918-4e72-9e7b-8b6b6b0f28e2	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	http://127.0.0.1:5173
+20230311	22:51:00	9db9bc72-59bd-4824-896e-c74f9c647219	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
+20230311	22:52:21	d9cd22aa-68d9-408d-8996-d6e8ef263651	MongoServerError: user is not allowed to do action [find] on [technotesAPI.users]	GET	/users	undefined
